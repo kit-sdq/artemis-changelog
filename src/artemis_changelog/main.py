@@ -70,7 +70,7 @@ def commits_between(a: git.Tag, b: git.Tag) -> set[str]:
 
 def get_commits(
     latest_release: git.Tag, previous_release: git.Tag
-) -> Generator[Commit, None, None]:
+) -> Generator[Commit]:
     yield latest_release.commit
 
     commits = commits_between(previous_release, latest_release)
@@ -83,7 +83,7 @@ def get_commits(
         yield commit
 
 
-def get_changed_paths(commit: Commit) -> Generator[str, None, None]:
+def get_changed_paths(commit: Commit) -> Generator[str]:
     # Artemis has no merge commits on the `develop` branch which would have multiple
     # parents -> only look at the first (and only) one
     for diff in commit.diff(next(commit.iter_parents())):
