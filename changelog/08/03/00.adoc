@@ -1,0 +1,11 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.3.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.3.0[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/8c0e1e280064bdd4188d66a93ada70c2b1d05049/[Quiz exercises: Add spaced repetition algorithm to select quiz questions for training (#11055)]

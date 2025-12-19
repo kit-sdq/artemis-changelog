@@ -1,0 +1,38 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.5.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.5.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/358e94cce5169d7a964e935d1fe3aead46fcc6c4/[Development: Add missing sharing.enabled false to build agents]
+* link:https://www.github.com/ls1intum/Artemis/commit/c77d204aba62a58d1e42e1a4cd1c8abeb8f9cff4/[Lectures: Automatically transcribe lecture videos (#11476)]
+* link:https://www.github.com/ls1intum/Artemis/commit/157fe7ddaad7789cc5e612757c796eab3b6a2d3d/[Development: Add internal endpoints (#11443)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8b977e492d3068dccaae7bb9cb500d52c958fa36/[Development: Fix server-side sentry traces (#11388)]
+* link:https://www.github.com/ls1intum/Artemis/commit/8d41d80f93603b245fcf3faaa0d5716015dfa3e3/[Adaptive learning: Allow instructors to apply AI recommendations to create competency networks (#11058)]
+* link:https://www.github.com/ls1intum/Artemis/commit/10ab8cc0f70324b819b5ff2a7de3c6a99854bf77/[Development: Add Redis support for distributed data synchronization (#11449)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5a2d9fcac34e27d9122415708489b60aa8739e60/[Programming exercises: Enable exchange of programming exercises on the codeability sharing platform (#10989)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a509c8a3bdd880fdd099e088c0b36fb16fcbbede/[Development: Fix a few issues after merging PR 11058]
+* link:https://www.github.com/ls1intum/Artemis/commit/5806d258bebd31c142ce21fa48ffed5168155e50/[Development: Fix warnings when starting the server app locally]
+* link:https://www.github.com/ls1intum/Artemis/commit/98b3972b94a54dd4c13ddfb09e5ac9df30ab514a/[Development: Improve logging for build request queue in LocalCI]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/16ec468baeb0318b77fb1b08cc9ffc26b8596f38/[Programming exercises: Create exercise versions when instructors make changes (#11491)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c77d204aba62a58d1e42e1a4cd1c8abeb8f9cff4/[Lectures: Automatically transcribe lecture videos (#11476)]
+* link:https://www.github.com/ls1intum/Artemis/commit/b5f526678a83bb8c6f1505e9473f2a528682f23d/[Development: Fix faulty database migration for postgres and h2 (#11536)]
+* link:https://www.github.com/ls1intum/Artemis/commit/68691875da3c6532183a670d7779341c06ea9012/[Iris: Automatically generate session titles based on first prompt (#11356)]
+* link:https://www.github.com/ls1intum/Artemis/commit/08aa24cec1ef08d53f55a653d74782faa31f245e/[General: Support 1password8 passkey login (#11565)]
+* link:https://www.github.com/ls1intum/Artemis/commit/19516da765e1dd57d45d7fb5c5309903806c7aba/[Development: Remove duplicate values from the database (#11533)]
+* link:https://www.github.com/ls1intum/Artemis/commit/bb1be8ff69eef5bebec6467d77fa9f3927f95b4b/[Development: Migrate quiz leaderboard due date into own table column (#11516)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/32527dcd6d7d2e443789f50a999e0409d1b19a13/[Development: Improve build agent and LocalCI server code documentation]
+* link:https://www.github.com/ls1intum/Artemis/commit/10ab8cc0f70324b819b5ff2a7de3c6a99854bf77/[Development: Add Redis support for distributed data synchronization (#11449)]
+* link:https://www.github.com/ls1intum/Artemis/commit/5a2d9fcac34e27d9122415708489b60aa8739e60/[Programming exercises: Enable exchange of programming exercises on the codeability sharing platform (#10989)]

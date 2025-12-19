@@ -1,0 +1,29 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.6.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.6.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/7c038fff512ec860e5264c2417f73abd123b6ea4/[Development: Add failure analyzer (#11649)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9db970fb168f87c8faa456a1462caa4f8757c63f/[Lectures: Fix edge cases that can lead to invalid lecture unit configurations (#11648)]
+* link:https://www.github.com/ls1intum/Artemis/commit/e207ea9a88fbda22995224aef4bf2ad3503ae88c/[Development: Use jspecify annotations for nullable and non null]
+* link:https://www.github.com/ls1intum/Artemis/commit/873bdff6dd8c0f8ddbef76847f92400c60722c78/[Adaptive learning: Preserve Atlas companion conversation history (#11504)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/b9bf3a3aee8b82a78341a8970a7b833375df82f2/[Development: Migrate existing participations to practice mode (#11283)]
+* link:https://www.github.com/ls1intum/Artemis/commit/193e60840fe2a4aaa82cd9b2f5c6c6165404e27d/[General: Enforce passkey login for admin features (#11464)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9db970fb168f87c8faa456a1462caa4f8757c63f/[Lectures: Fix edge cases that can lead to invalid lecture unit configurations (#11648)]
+* link:https://www.github.com/ls1intum/Artemis/commit/d0cdb40da2555b6ee5a1a96f20e28f8f5ec5c313/[Tutorial groups: Introduce tutorial lectures (#11552)]
+* link:https://www.github.com/ls1intum/Artemis/commit/873bdff6dd8c0f8ddbef76847f92400c60722c78/[Adaptive learning: Preserve Atlas companion conversation history (#11504)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3fb24263e82162eb401ca50340e49d634f8e6c3c/[Development: Add exercise id to result table to speed up database queries (#11459)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/cdb3487be1b3171ef6ff9115b97fb79871bdddc1/[Communication: Incorporate the confidential information warning into the code of conduct (#11600)]

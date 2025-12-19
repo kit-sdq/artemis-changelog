@@ -1,0 +1,22 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.6.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.6.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/a5a2b33099f17a8ab0d06d2bf2e4a261df4f5966/[Development: Expose LLM traces to Langfuse (#11571)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9a7026e0cd49a3d8b34dac9bae912d0e6a3228b6/[General: Allow users to request courses (#11751)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9a7026e0cd49a3d8b34dac9bae912d0e6a3228b6/[General: Allow users to request courses (#11751)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9a7026e0cd49a3d8b34dac9bae912d0e6a3228b6/[General: Allow users to request courses (#11751)]

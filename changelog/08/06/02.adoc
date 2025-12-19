@@ -1,0 +1,21 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.6.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.6.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/aed2b1d057863eb7496ee8a0db48d31c27ecb6b9/[General: Add websocket admin interface (#11734)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/5ef52cf61a639c8e5ee7edc33dbd4aeb7d5e118b/[Development: Implement different code and performance improvements (#11731)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/aed2b1d057863eb7496ee8a0db48d31c27ecb6b9/[General: Add websocket admin interface (#11734)]

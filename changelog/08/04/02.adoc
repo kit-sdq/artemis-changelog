@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.4.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.4.2[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3a1150d901e1d099482a22db8329c10a1a5aec06/[Development: Integrate Atlas-agent beta for competency management (#11267)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/faefae3c14807708d5c86eeb0684f7ded2579e2e/[Development: Update to Java 25 and Gradle 9.1 (#11478)]

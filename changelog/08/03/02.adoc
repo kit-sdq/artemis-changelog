@@ -1,0 +1,12 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.3.2
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.3.2[Full Release Notes]
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/3d024ff9eaeeb3c8d87e715d7cd51fdce22b76f4/[Revert "Programming exercises: Allow to choose preliminary feedback model (#10946)"]
+* link:https://www.github.com/ls1intum/Artemis/commit/f7d241f8640256413831b5c98c56feabe3d63cd3/[Programming exercises: Allow to choose preliminary feedback model (#10946)]

@@ -1,0 +1,17 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.4.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.4.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/dd42e2d012499cedbb1e3e0bca5efdb37e14b97e/[Development: Improve logging for build request queue in LocalCI]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/42dde41f1cc196fe9786e5be842ab8041ce1fe8e/[Development: Fix faulty database migration for postgres and h2 (#11536)]
+* link:https://www.github.com/ls1intum/Artemis/commit/327074eec3f3ee0b10d6bcde596c3153de150226/[Development: Remove duplicate values from the database (#11533)]

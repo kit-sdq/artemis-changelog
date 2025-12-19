@@ -1,0 +1,19 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.4.1
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.4.1[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/429cb097dde45dc17781a2cb25f024464b0d5bbb/[Development: Configure Spring AI relevant auto configurations only when hyperion is enabled (#11390)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c422ec61a6295ded825a2bbb45a7ecbb305df014/[Integrated code lifecycle: Retry missing build jobs (#11330)]
+* link:https://www.github.com/ls1intum/Artemis/commit/596cec905d26e3c62217dca499a8f99fb6a1ec74/[Development: Add nebula dependency in Artemis (#11400)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/418843c4e7fc802c0ddc43f4a7170cd24e75e26d/[Quiz exercises: Add leaderboard server logic (#11345)]
+* link:https://www.github.com/ls1intum/Artemis/commit/56693a167f4da06ae3c0c111455dc99c76942b9e/[Quiz exercises: Add unrated mode to quiz training (#11382)]

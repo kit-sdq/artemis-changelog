@@ -1,0 +1,24 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.2.3
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.2.3[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/c2fbb9ce902535b06afc9efbef9f9394c10708a1/[Development: Add Helios push based lifecycle monitoring with manual DB migration status events (#10873)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/aadcd2c76f5fde0edc4c70e0b532deb4c4cafe7b/[Text exercises: Extend the learner profile with feedback preferences (#10916)]
+* link:https://www.github.com/ls1intum/Artemis/commit/263f384c29b3a9de85b126eb5fcbcdb3e2af1a72/[Development: Delete git diff related server code and database tables (#11144)]
+* link:https://www.github.com/ls1intum/Artemis/commit/82d470fd9b4ef9a9013ab861eccea44d4249521f/[General: Fix an issue when deleting a course with Iris sessions (#11143)]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/9d2ad474fd8a9c8c2f7daf2fa0595cc4131bf457/[Development: Update org.apache.commons dependencies]
+* link:https://www.github.com/ls1intum/Artemis/commit/5c656b6fefa90ff2f82d8b849fbde8cbdadfc004/[Development: Do not write pipeline script directly with curl in the Jenkins pipeline (#11131)]

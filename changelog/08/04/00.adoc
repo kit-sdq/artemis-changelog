@@ -1,0 +1,39 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.4.0
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.4.0[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4c5a445487603d790a36f208f1faf25d48b46a9c/[Programming exercises: Retrigger builds for submissions without results (#11315)]
+* link:https://www.github.com/ls1intum/Artemis/commit/06c544c39250e289aabfb36a85c30710c41fc079/[Development: Initialize Hyperion module using Spring AI for inconsistency check and problem statement rewriting instead of Iris (#11284)]
+* link:https://www.github.com/ls1intum/Artemis/commit/f4ac85962e8c59905751aba04884b9ae5f83f668/[Development: Increase default concurrent result processing config (#11337)]
+* link:https://www.github.com/ls1intum/Artemis/commit/3aa80141305c60a689e121d00511d9fa3ebade5b/[Development: Fix percentiles histogram metrics (#11302)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1ab875e5f3c52365c86717346e68245491dc9acb/[Development: Fix configuration issues in different profile combinations which could led to runtime exceptions]
+* link:https://www.github.com/ls1intum/Artemis/commit/362357a8538d1ea2edc7d3dd7557d0b7f43e6ea0/[Development: Improve Spring AI exclusion in build agents]
+* link:https://www.github.com/ls1intum/Artemis/commit/a4036b58c13a2836fd792595520efbbd7b379c42/[Development: Add scheduled asynchronous build job result processing (#11276)]
+* link:https://www.github.com/ls1intum/Artemis/commit/4f77bb8661f78971008aee33a604fb552d164157/[Programming exercises: Update java template to latest Ares and Gradle version (#11374)]
+* link:https://www.github.com/ls1intum/Artemis/commit/a738e6bba1b8218224d7f249fb7d99875c6d1b47/[Development: Do not use system temp dir for server tests (#11151)]
+* link:https://www.github.com/ls1intum/Artemis/commit/2319ffbc83997cd0b51bedb546d430353c864e3a/[Development: Remove push notification proxy (#11224)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/200a96acd121ee044ece94ec1848f8fb15910cca/[Exam mode: Add exam room management page admins (#11111)]
+* link:https://www.github.com/ls1intum/Artemis/commit/acbae2a74bc8b9f708b28f6891ed84ce28a23c83/[Iris: Integrate Memiris into the course chat (#11219)]
+* link:https://www.github.com/ls1intum/Artemis/commit/9210664836637157c0c6997bc12b868fd5fa2dfc/[General: Allow to subscribe to the calender (#11308)]
+* link:https://www.github.com/ls1intum/Artemis/commit/1fecb862323eee5c83c3f2e7f095b08d0e18a2a4/[Adaptive learning: Add pair-wise feedback preference setup (#11160)]
+
+
+== Docker
+
+* link:https://www.github.com/ls1intum/Artemis/commit/1e1da8940d0aee40c690bb2205092b8639273d91/[Development: Add nginx rate limit for passkey logins and https git operations (#11269)]
+* link:https://www.github.com/ls1intum/Artemis/commit/c1f4033f73a45601102edba9cc9411c05c494a04/[Development: Update server dependencies]
+
+
+== Template
+
+* link:https://www.github.com/ls1intum/Artemis/commit/4f77bb8661f78971008aee33a604fb552d164157/[Programming exercises: Update java template to latest Ares and Gradle version (#11374)]

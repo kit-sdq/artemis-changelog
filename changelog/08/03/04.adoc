@@ -1,0 +1,16 @@
+// SPDX-FileCopyrightText: 2023 Artemis Changelog Contributors
+//
+// SPDX-License-Identifier: CC-BY-SA-4.0
+
+= 8.3.4
+
+link:https://github.com/ls1intum/Artemis/releases/tag/8.3.4[Full Release Notes]
+
+== Config
+
+* link:https://www.github.com/ls1intum/Artemis/commit/bca8754249ae810b5e8dbf1e32d15ce1998aa798/[Development: Fix an internal server error when starting Artemis locally (#11154)]
+
+
+== Database
+
+* link:https://www.github.com/ls1intum/Artemis/commit/66e289423c90336a970b4c0ba1dee35f90427d8b/[Quiz exercises: Fix internal server error in the quiz training mode caused by database inconsistencies (#11236)]
