@@ -17,10 +17,6 @@ format:
 mypy:
 	uv run mypy $(PROJECT) tests
 
-.PHONY: pyre
-pyre:
-	uv run pyre
-
 .PHONY: ruff
 ruff:
 	uv run ruff check $(PROJECT) tests

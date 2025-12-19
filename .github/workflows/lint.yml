@@ -34,9 +34,6 @@ jobs:
       - name: Check typing with mypy
         run: uv run mypy src tests
 
-      - name: Check typing with pyre
-        run: uv run pyre
-
       - name: General linting with ruff
         run: uv run ruff check src tests
 
